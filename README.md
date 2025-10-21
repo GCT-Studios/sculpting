@@ -1,1 +1,1 @@
-Files to support [GCT's sculpting guidelines](link.gctstudios.com/sculpting).
+Files to support [GCT's sculpting guidelines](https://link.gctstudios.com/sculpting).
